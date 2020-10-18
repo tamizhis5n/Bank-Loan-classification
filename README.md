@@ -1,2 +1,6 @@
 # Bank-Loan-classification
-![Screenshot from 2020-07-27 22-20-15](https://user-images.githubusercontent.com/42490058/96378045-2ef5bf80-11a7-11eb-942d-39e643df77fd.png)
+![4](https://user-images.githubusercontent.com/42490058/96378166-da9f0f80-11a7-11eb-9066-11b40166c638.JPG)
+![1](https://user-images.githubusercontent.com/42490058/96378174-e094f080-11a7-11eb-8460-bfde01f62f67.JPG)
+![b7172199-3465-411d-8702-0ffe0f98586a](https://user-images.githubusercontent.com/42490058/96378204-10dc8f00-11a8-11eb-8e53-62b464d99924.jpg)
+![3](https://user-images.githubusercontent.com/42490058/96378163-d5da5b80-11a7-11eb-963b-c585ce5e40d8.JPG)
+![2](https://user-images.githubusercontent.com/42490058/96378170-dd9a0000-11a7-11eb-99e6-e16e39bfaf93.JPG)
